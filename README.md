@@ -13,7 +13,7 @@ This project implements a Genetic Algorithm to solve the Traveling Salesman Prob
 
 This project demonstrates how to estimate the value of π using the Monte Carlo method. It simulates random points in a unit square and checks how many fall inside a quarter circle to approximate π. The project includes visualizations of point distributions, running estimates, histograms, and boxplots for different sample sizes and repetitions.
 
-## Monte Carlo π Estimation
+## SSN 
 
 This project explores how the structure and training process of a simple feedforward neural network (MLP) affects its ability to approximate a nonlinear function.
 We investigate the impact of:
